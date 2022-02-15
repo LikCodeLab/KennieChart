@@ -23,4 +23,9 @@ include ':MPChartLib'
 project(':MPChartLib').projectDir = new File('MPAndroidChart/MPAndroidChart_20210621/MPChartLib')
 
 
+include ':MPChartExample_Kotlin'
+project(':MPChartExample_Kotlin').projectDir = new File('MPAndroidChart/MPAndroidChart_Kotlin_20220209/MPChartExample_Kotlin')
+include ':MPChartLib_Kotlin'
+project(':MPChartLib_Kotlin').projectDir = new File('MPAndroidChart/MPAndroidChart_Kotlin_20220209/MPChartLib_Kotlin')
+
 
