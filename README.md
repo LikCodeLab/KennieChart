@@ -2,6 +2,10 @@
 
 https://github.com/PhilJay/MPAndroidChart
 
+
+https://github.com/BharathVishal/MPAndroidChart
+
+
 <p align="center"><img src="./resources/screenshots/logo.png" width="20%"/></p>
 
 <p align="center">
