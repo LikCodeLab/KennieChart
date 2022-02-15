@@ -17,10 +17,10 @@ include ':library'
 include ':library_MPChartLib'
 
 //************************官方演示 目录************************
-//include ':MPChartExample'
-//project(':MPChartExample').projectDir = new File('MPAndroidChart/MPAndroidChart_20210621/MPChartExample')
-//include ':MPChartLib'
-//project(':MPChartLib').projectDir = new File('MPAndroidChart/MPAndroidChart_20210621/MPChartLib')
+include ':MPChartExample'
+project(':MPChartExample').projectDir = new File('MPAndroidChart/MPAndroidChart_20210621/MPChartExample')
+include ':MPChartLib'
+project(':MPChartLib').projectDir = new File('MPAndroidChart/MPAndroidChart_20210621/MPChartLib')
 
 
 //include ':MPChartExample_Kotlin'
