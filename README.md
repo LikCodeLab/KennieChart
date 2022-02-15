@@ -1,9 +1,11 @@
-# AndroidLibraryTemplate
+# MPAndroidChart 官方演示项目
+
+https://github.com/PhilJay/MPAndroidChart
 
 <p align="center"><img src="./resources/screenshots/logo.png" width="20%"/></p>
 
 <p align="center">
-    <strong>Android Library 模板库</strong>
+    <strong>MPAndroidChart 官方演示项目</strong>
     <br>
     <a href="https://kennielab.github.io/KennieLibTemplate/">使用文档</a>
     <br>
@@ -19,7 +21,7 @@
 
 ## 简介
 
-Android Library 模板库
+MPAndroidChart 官方演示项目
 
 如有任何疑问或者Bug，请在 github 上公开讨论[技术问题](https://github.com/kennielab/KennieLetterIndexBar/issues)
 
